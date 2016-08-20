@@ -8,3 +8,20 @@
 .content-padded {
   margin: 30px 15px 15px;
 }
+
+
+@font-face {
+    font-family: 'Shabnam-en';
+    src: url('../fonts/shabnam/Shabnam-en.eot');
+    src: url('../fonts/shabnam/Shabnam-en.eot?#iefix') format('embedded-opentype'), url('../fonts/shabnam/Shabnam-en.woff') format('woff'), url('../fonts/shabnam/Shabnam-en.ttf') format('truetype'), url('../fonts/shabnam/Shabnam-en.svg#Shabnam') format('svg');
+}
+
+@font-face {
+    font-family: 'Shabnam';
+    src: url('../fonts/shabnam/Shabnam.eot');
+    src: url('../fonts/shabnam/Shabnam.eot?#iefix') format('embedded-opentype'), url('../fonts/shabnam/Shabnam.woff') format('woff'), url('../fonts/shabnam/Shabnam.ttf') format('truetype'), url('../fonts/shabnam/Shabnam.svg#Shabnam') format('svg');
+}
+
+body {
+  font-family: 'Shabnam';
+}

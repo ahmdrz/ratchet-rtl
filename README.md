@@ -1,2 +1,4 @@
-# ratchet-rtl
-the rtl version of ratchet 
+### ratchet-rtl
+The rtl version of ratchet 
+
+See the demo in index.html file

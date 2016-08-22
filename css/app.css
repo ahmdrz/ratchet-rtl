@@ -26,3 +26,11 @@
 body {
   font-family: 'Shabnam','Shabnam-en';
 }
+
+input,
+textarea,
+button,
+select {
+  font-family: 'Shabnam','Shabnam-en';
+  font-size: 17px;
+}

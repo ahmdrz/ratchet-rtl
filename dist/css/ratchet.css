@@ -827,7 +827,7 @@ input[type="button"] {
 }
 
 .content > .table-view:first-child {
-  margin-top: 15px;
+  margin-top: 0px;
 }
 
 input,
